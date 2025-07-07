@@ -1,7 +1,7 @@
 import Header from "./Header";
 import useNowPlayingMovies from "../hooks/useNowPlayingMovies";
 import MainContainer from "./MainContainer/MainContainer";
-import SecondaryContainer from "./SecondaryContainer";
+import SecondaryContainer from "./SecondaryContainer/SecondaryContainer";
 
 const Browse = () => {
   useNowPlayingMovies();
