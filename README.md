@@ -19,6 +19,7 @@
 - Unsubscribe to onAuthStateChange call back when the component unmounts
 - Register TMDB and create an app and get access token
 - Get Data from tmdb (enable vpn)
+- place the movies data in the movieslice (in reduxStore)
 
 
 # Features
