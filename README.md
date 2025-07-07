@@ -9,28 +9,30 @@
 - SignUp form
 - Form Validation
 - UseRef Hook
-- FireBase setup 
+- FireBase setup
 - Deploying the app to production
 - Create a signup user account in firebase
 - Implement Sign In user Api
 - Created Redux Store with userSlice
 - Signout feature
-
+- Redirection Logic from sign in to browse and vice versa
 
 # Features
 
-- Login/Sign Up page 
-    - Sign in form
-    - redirect to home page
+- Login/Sign Up page
+
+  - Sign in form
+  - redirect to home page
 
 - Home Page (After authentication)
-    - Header
-    - Main movie
-        - Trailer in background
-        - Title, Description, etc
-        - Movie suggestions
-            - vertical Scroll
+
+  - Header
+  - Main movie
+    - Trailer in background
+    - Title, Description, etc
+    - Movie suggestions
+      - vertical Scroll
 
 - MetflixGPT
-    - Search Bar
-    - Movie suggestions according to the search
+  - Search Bar
+  - Movie suggestions according to the search
