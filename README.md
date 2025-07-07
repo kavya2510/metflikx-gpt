@@ -16,6 +16,8 @@
 - Created Redux Store with userSlice
 - Signout feature
 - Redirection Logic from sign in to browse and vice versa
+- Unsubscribe to onAuthStateChange call back when the component unmounts
+
 
 # Features
 
