@@ -1,0 +1,40 @@
+{
+  "name": "metflikx-gpt",
+  "version": "1.0.0",
+  "description": "A Netflix clone with chat gpt apis integrated",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavya2510/metflikx-gpt"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Kavya Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavya2510/metflikx-gpt/issues"
+  },
+  "homepage": "https://github.com/kavya2510/metflikx-gpt#readme",
+  "devDependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "firebase": "^11.10.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.6.3",
+    "tailwindcss": "^4.1.11"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
