@@ -10,3 +10,6 @@ export const API_OPTIONS = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzMzg0Mzk5MjMyOTcxYjZjMjg0OWNhOGYxMGMxZTUyYSIsIm5iZiI6MTc1MTg5MTE1OS45MjEsInN1YiI6IjY4NmJiY2Q3ZTBkMzY1OTA4MDEwM2I0ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5y1-iTgKh6Hwo-kZ_gjrW0dLGQDVIwbyWopmNy__1IE",
   },
 };
+
+export const LOGIN_BACKGROUND =
+  "https://assets.nflxext.com/ffe/siteui/vlv3/05e91faa-6f6d-4325-934e-5418dcc2567b/web/IN-en-20250630-TRIFECTA-perspective_159086b1-425f-435b-bcd5-1ed8039cdef9_large.jpg";
