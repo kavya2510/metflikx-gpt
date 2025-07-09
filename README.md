@@ -22,7 +22,8 @@
 - place the movies data in the movieslice (in reduxStore)
 - Fetch data for trailer video and update the store
 - Embed the youtube video and make it autoplay and mute
-- GPT search Feature
+- Build Movie List and Movie Card
+- search Feature (search bar and multi-language feature)
 
 
 # Features
